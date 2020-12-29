@@ -24,7 +24,7 @@ export class Programming {
 export class Social {
 
   github: string = 'lucasfe4nor'
-  twitter: string = '@lucasfe4nor'
+  twitter: string = 'lucasfe4nor'
   linkedin: string = 'lucasgbsampaio'
   discord: string = 'lucasfe4nor#6231'
 
