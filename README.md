@@ -1,5 +1,3 @@
------
-
 ```ts
 export class Info {
 
@@ -30,5 +28,3 @@ export class Social {
 
 }
 ```
-
------
