@@ -5,7 +5,7 @@ export class Info {
   age: number = 19
   nationality: string = 'Brazilian'
   languages: Record<string, string>[] = [{ 'English': 'B1' }, { 'Portuguese': 'native' }]
-  occupation: string = 'Full Stack Web Developer'
+  occupation: string = 'Back-End Web Developer'
   freetime: string[] = ['Playing video games', 'Watching movies' ,'Reading', 'Hanging out with friends']
 
 }
